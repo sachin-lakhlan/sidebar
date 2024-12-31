@@ -114,6 +114,10 @@ section {
     position: absolute;
 }
 
+.svg:hover {
+    cursor: pointer;
+}
+
 .data {
     width: 0px;
     height: 100%;
